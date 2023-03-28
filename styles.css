@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body{
+	background-color:f8f8f8;
+}
+.library{
+	background-color:green;
+	width:600px;
+	height:2000px;
+	display:flex;
+	flex-direction:column;
+	
+	gap:30px;
+	align-item:
+}
+.book{
+	width:300px;
+	height:500px;
+	
+	padding:20px;
+	background-color:red;
+}
+.heading{
+	
+}
+.price{
+	hight:10px;
+	width:200px;
+	color:white;
+	background-color:black;
+}
+.Author{
+	width:110px;
+}
