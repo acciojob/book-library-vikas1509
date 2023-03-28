@@ -8,19 +8,35 @@ body{
 	height:2000px;
 	display:flex;
 	flex-direction:column;
-	
+	align-items:center;
 	gap:30px;
-	align-item:
+	
 }
 .book{
 	width:300px;
-	height:500px;
-	
-	align-self:center;
-	
+	height:400px;
+gap:10px;
 	
 	padding:20px;
 	background-color:red;
+
+}
+.book{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+
+}
+p{
+	width:60px;
+}
+.price{
+
+width:1000px;
+	
+}
+   .book>div{
+
 }
 
 .heading{
@@ -34,5 +50,5 @@ body{
 	
 }
 .Author{
-	width:110px;
+	width:200px;
 }
